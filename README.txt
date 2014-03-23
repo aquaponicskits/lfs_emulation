@@ -1,0 +1,1 @@
+This project is to try to make an emulator out of the pc with minimal gui underneath the emulated system.
